@@ -7,10 +7,10 @@ The repository contains the code used to retrieve Ethereum transactions from the
 
 The public dataset ‘crypto-Ethereum’ is hosted on the Google BigQuery platform, and contains information about transactions carried out on Ethereum. The transactions can be retrieved using SQL queries on the BigQuery console. The BigQuery API is then used to analyse the data in a Jupyter notebook. The included files in this project are
 
-* query_transactions.sql: SQL queries used to retrieve transactions on Etheream
-* query_binance.sql: SQL queries used to retrieve transactions with Binance
-* temporal_analysis.ipynb: jupyter notebook to analyse Ethereum transactions
-* binance_analysis.ipynb: jupyter notebook to analyse Binance transactions 
+* `query_transactions.sql`: SQL queries used to retrieve transactions on Etheream
+* `query_binance.sql`: SQL queries used to retrieve transactions with Binance
+* `temporal_analysis.ipynb`: jupyter notebook to analyse Ethereum transactions
+* `binance_analysis.ipynb`: jupyter notebook to analyse Binance transactions 
  
 
 REQUIREMENTS
